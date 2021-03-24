@@ -1,8 +1,6 @@
 
 import imdb
 
-codigos = []
-
 movies = {"Minari":[],"Sound of Metal":[],"Mank":[], "Promising Young Woman":[], "The Father":[], "Judas and the Black Messiah":[], "The Trial of the Chicago 7":[],"Nomadland":[]}
 
 # creating instance of IMDb
