@@ -15,8 +15,8 @@ for i in movies:
       id = search[j].movieID
       
       if search[j]['title'] == i:
-        # printing it
-        print(search[j]['title'] + " : " + id )
+        
+        #print(search[j]['title'] + " : " + id )
         
         #obtenemos la info de esa película
         movie = ia.get_movie(id)
